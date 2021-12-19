@@ -43,8 +43,7 @@
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Md Irfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdirfancse2023&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Md Irfan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdirfancse2023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Md Irfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdirfancse2023&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Md Irfan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdirfancse2023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +59,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mdirfancse2023/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/md-irfan-6a9692208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/virtualgyans/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/virtualgyans"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
