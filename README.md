@@ -9,7 +9,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://portfolio.34.180.9.45.sslip.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://virtualgyans.me/myportfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/md-irfan-6a9692208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/mdirfancse2023" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/mdirfancse2023" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -22,8 +22,8 @@
 
 <!-- Intro Video -->
 <div align="center">
-  <a href="https://youtu.be/n2o-iEJJsRY" target="_blank">
-    <img src="https://img.youtube.com/vi/n2o-iEJJsRY/maxresdefault.jpg" width="70%" alt="Watch my Intro Video!" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
+  <a href="https://youtu.be/lmUNE9TF-AY" target="_blank">
+    <img src="https://img.youtube.com/vi/lmUNE9TF-AY/maxresdefault.jpg" width="70%" alt="Watch my Intro Video!" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
   </a>
   <br>
   <p><i>👆 Click the thumbnail to watch my Introduction!</i></p>
@@ -104,6 +104,10 @@
 <br>
 
 <h3 align="center">🤖 Codexa AI (App Builder Sandbox)</h3>
+<p align="center">
+  <a href="https://codexaai.virtualgyans.me/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://youtu.be/g3I1pIe1oFU" target="_blank"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" /></a>
+</p>
 <div align="center">
   <a href="https://youtu.be/g3I1pIe1oFU" target="_blank">
     <img src="https://img.youtube.com/vi/g3I1pIe1oFU/maxresdefault.jpg" width="65%" alt="Codexa Demo Video" style="border-radius:10px;">
@@ -122,6 +126,10 @@
 <br><br>
 
 <h3 align="center">🧠 24/7 AI Mental Health Assistant</h3>
+<p align="center">
+  <a href="https://virtualgyans.me/healthai/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://youtu.be/DZSC1apUFfI" target="_blank"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" /></a>
+</p>
 <div align="center">
   <a href="https://youtu.be/DZSC1apUFfI" target="_blank">
     <img src="https://img.youtube.com/vi/DZSC1apUFfI/maxresdefault.jpg" width="65%" alt="Mental Health AI Demo Video" style="border-radius:10px;">
@@ -143,6 +151,25 @@
 <ul>
   <li><b>MBA in Data Science</b> | Amity University <i>(2024 - 2026)</i> — CGPA: <b>8.42</b></li>
   <li><b>B.Tech in Computer Science</b> | RGPV Bhopal <i>(2019 - 2023)</i> — CGPA: <b>8.88</b></li>
+</ul>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<h2 align="center">🏆 Certifications</h2>
+
+<ul>
+  <li>
+    <b>AWS Certified Developer – Associate</b> | Amazon Web Services 
+    <a href="https://www.credly.com/badges/432ed1ed-16ed-43dd-9864-aa8b17dfb2a0/linked_in_profile" target="_blank">
+      <img src="https://img.shields.io/badge/Verify-Credential-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Verification" />
+    </a>
+  </li>
+  <li>
+    <b>Spring Boot 0 to 100 Cohort 4.0 [AI + DevOps]</b> | Coding Shuttle 
+    <a href="https://app.codingshuttle.com/certificate/verify/LPC123XT" target="_blank">
+      <img src="https://img.shields.io/badge/Verify-Credential-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot Verification" />
+    </a>
+  </li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
