@@ -34,7 +34,7 @@
 <h2 align="center">👨‍💻 Professional Summary</h2>
 
 <p align="center">
-  I am a <b>Software Developer</b> with robust experience in building highly scalable backend systems using <b>Java, Spring Boot, and Microservices</b>. Currently navigating a live production environment in the banking sector supporting <b>24,000+ branches</b> and processing <b>5000+ transactions daily</b>.
+  I am a <b>Software Developer</b> with <b>3+ years of experience</b> building scalable backend systems using <b>Java, Spring Boot, and microservices</b> in a core banking environment supporting <b>24,000+ branches</b> and <b>5,000+ daily transactions</b>. Proven in improving performance and reliability through event-driven architectures and optimized APIs. Experienced in full-stack development with React and Angular, with a strong DSA foundation (<b>650+ problems</b>) and system design, and exposure to AI-driven applications using LLMs and RAG.
 </p>
 
 <div align="center">
@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
 <p align="center">
@@ -87,15 +88,14 @@
 
 <h2 align="center">💼 Professional Experience</h2>
 
-**System Engineer | Tata Consultancy Services** <br>
+**Software Developer | Tata Consultancy Services** <br>
 *June 2023 – Present*
-- Worked on core banking transactions like Branch Creation and CCPC Inward Clearing in a live production system supporting **24,000+ branches** and **2 lakh+ users worldwide**, handling **5000+ transactions daily**.
-- Built and improved a **Kafka-based flow** to process cheque data asynchronously, reducing processing time by **~30%** and enabling smooth integration with ML models for validation and fraud checks.
-- Developed REST APIs using **Spring Boot in microservices architecture** with proper validations, exception handling, and secure transaction logic, supporting high concurrent users with stable performance.
-- Implemented **Maker–Checker functionality** to ensure transactions are approved before saving, reducing incorrect entries and improving audit compliance by **~40%**.
-- Improved performance by optimizing SQL queries and backend logic, reducing API response time by **~20%** in high-load scenarios.
-- Led a team of 5 developers in **Agile setup**, handling sprint planning and production issues, and reduced bug resolution time by **~25%** through better coordination and mentoring.
-- Worked on frontend transaction screens with dynamic forms, validations, and API integration, reducing manual errors and improving user efficiency by **~30%**.
+- Developed and enhanced features in a **Spring Boot microservices-based** core banking application supporting a live production system supporting **24,000+ branches**, over **2 lakh users** worldwide, and processing **5,000+ transactions** daily.
+- Developed REST API integration with a **Kafka-driven ML-powered** cheque validation service, automating the clearing of eligible low-value cheques, reducing manual intervention, and improving cheque processing efficiency by **~30%**.
+- Diagnosed and resolved a production image retrieval issue by tracing end-to-end cheque upload workflows, identifying incorrect server-side upload practices, and implementing validation to prevent image mismatches.
+- Implemented a **Maker–Checker approval workflow** for the Branch Creation module (**130+ configurable fields**), ensuring transactions were reviewed before authorization, reducing data entry errors and improving transaction integrity and auditability.
+- Optimized SQL queries, implemented database indexing and server-side pagination for dropdowns containing over **50,000+ records**, reducing API response time from **~60 seconds to ~5 seconds** in production.
+- Collaborated with a team of three developers in an **Agile environment**, improving code quality and reducing SIT iterations by **~30%**, enabling faster release readiness and timely sprint delivery.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -117,8 +117,8 @@
 <ul>
   <li>Designed and developed an AI-powered full-stack application generator that converts natural language prompts into production-ready applications using <b>Spring Boot, React, and LLMs</b>, reducing manual development effort by <b>~70%</b>.</li>
   <li>Architected the system using <b>microservices (HLD + LLD)</b> with clearly defined service boundaries (Intelligence, Workspace, Account), enabling independent scaling, modular development, and efficient deployment of critical components.</li>
-  <li>Implemented <b>event-driven architecture using Kafka</b> to handle asynchronous AI workflows (file generation → storage → preview execution), improving system responsiveness by <b>~60%</b> and ensuring reliable and fault-tolerant processing.</li>
-  <li>Designed optimized data storage using <b>PostgreSQL (metadata) and MinIO (object storage)</b>, applied indexing and query optimization strategies to reduce file retrieval latency by <b>~40%</b> and improve overall system performance.</li>
+  <li>Implemented <b>event-driven architecture using Kafka</b> to handle asynchronous AI workflows (file generation → storage → preview execution), improving system responsiveness by <b>~30%</b> and ensuring reliable and fault-tolerant processing.</li>
+  <li>Designed optimized data storage using <b>PostgreSQL (metadata) and MinIO (object storage)</b>, applied indexing and query optimization strategies to reduce file retrieval latency by <b>~20%</b> and improve overall system performance.</li>
   <li>Built a dynamic preview infrastructure using <b>Kubernetes</b> where each project runs in isolated pods, and implemented <b>Redis-based routing</b> with a custom reverse proxy to map subdomains to ephemeral containers in real-time for scalable execution.</li>
   <li>Enforced production-ready coding standards using <b>Spring AI with Retrieval-Augmented Generation (RAG)</b>, and deployed applications on GKE using <b>GitHub Actions CI/CD</b> and Qodana for code quality, improving reliability and maintainability.</li>
 </ul>
@@ -149,8 +149,8 @@
 <h2 align="center">🎓 Education</h2>
 
 <ul>
-  <li><b>MBA in Data Science</b> | Amity University <i>(2024 - 2026)</i> — CGPA: <b>8.42</b></li>
-  <li><b>B.Tech in Computer Science</b> | RGPV Bhopal <i>(2019 - 2023)</i> — CGPA: <b>8.88</b></li>
+  <li><b>MBA in Data Science</b> | Amity University Online <i>(July 2024 – June 2026)</i> — CGPA: <b>8.08/10</b></li>
+  <li><b>B.Tech in Computer Science</b> | Rajiv Gandhi Proudyogiki Vishwavidyalaya <i>(July 2019 – June 2023)</i> — CGPA: <b>8.88/10</b></li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
